@@ -3,11 +3,11 @@
 Desarrollado por Richard Diaz O 
 App de giftcard componentes de React, Redux, Escrito en TypeScript
 
-#Ambiente de Prueba 
+# Ambiente de Prueba 
 
-Visitar el sitio https://giftreactapp.vercel.app/
-usuario : admin
-contraseña : 12345
+### https://giftreactapp.vercel.app/
+### usuario : admin
+### contraseña : 12345
     
 
 ## Getting Started
